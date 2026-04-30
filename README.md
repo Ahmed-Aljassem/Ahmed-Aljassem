@@ -40,5 +40,5 @@ I'm a Computer Science student at the University of Arizona interested in buildi
 ---
 
 ### 📫 Connect with me  
-- Email: your_email@arizona.edu  
+- Email: aaljassem@arizona.edu  
 - LinkedIn: (coming soon)
