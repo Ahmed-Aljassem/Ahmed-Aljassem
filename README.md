@@ -1,4 +1,4 @@
-Hi, I’m Ahmed Aljassem 👋
+# Hi, I’m Ahmed Aljassem 👋
 
 I’m a Computer Science student at the University of Arizona focused on systems programming, low-latency infrastructure, and backend data systems.
 
@@ -8,7 +8,7 @@ My flagship project is Helios, a C++20 low-latency order book and NASDAQ ITCH re
 
 ---
 
-Featured Work
+## Featured Work
 
 Helios — Low-Latency C++ Order Book & ITCH Replay Engine
 
@@ -30,7 +30,7 @@ EpiHack One Health Surveillance Platform
 
 ---
 
-Technical Focus
+## Technical Focus
 
 * Systems Programming: C++, Linux, memory layout, profiling, low-latency design
 * Backend Infrastructure: Python, Java, PostgreSQL, DynamoDB, Docker, Kafka
@@ -39,7 +39,7 @@ Technical Focus
 
 ---
 
-Currently Improving
+## Currently Improving
 
 * C++ systems programming and performance profiling
 * Distributed systems and backend architecture
@@ -48,7 +48,7 @@ Currently Improving
 
 ---
 
-Connect
+## Connect
 
 * Email: aaljassem@arizona.edu
 * LinkedIn: https://www.linkedin.com/in/ahmed-aljassem-92420a407/
