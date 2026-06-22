@@ -6,7 +6,7 @@ I’m currently a Software Engineering Intern at Ending Pandemics, where I work 
 
 My flagship project is Helios, a C++20 low-latency order book and NASDAQ ITCH replay engine built around measurement-driven optimization, cache-conscious data structures, and deterministic market-data reconstruction.
 
-⸻
+---
 
 Featured Work
 
@@ -28,7 +28,7 @@ EpiHack One Health Surveillance Platform
 * Co-architected a FastAPI ingestion pipeline for epidemiological telemetry across 15 counties and 22 tribal nations
 * Built privacy-preserving ingestion controls including EXIF stripping, geospatial coarsening, audit hashing, and cloud-backed storage workflows
 
-⸻
+---
 
 Technical Focus
 
@@ -37,7 +37,7 @@ Technical Focus
 * Data & Event Systems: event sourcing, ingestion pipelines, read models, streaming workflows
 * Financial Infrastructure: order books, market-data replay, deterministic execution paths
 
-⸻
+---
 
 Currently Improving
 
@@ -46,7 +46,7 @@ Currently Improving
 * Low-latency market-data infrastructure
 * Production-quality documentation and benchmarking discipline
 
-⸻
+---
 
 Connect
 
