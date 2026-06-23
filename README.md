@@ -51,4 +51,4 @@ EpiHack One Health Surveillance Platform
 ## Connect
 
 * Email: aaljassem@arizona.edu
-* LinkedIn: https://www.linkedin.com/in/ahmed-aljassem-92420a407/
+* LinkedIn: www.linkedin.com/in/ahmed-aljassem
